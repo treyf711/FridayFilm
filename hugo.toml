@@ -1,3 +1,4 @@
 baseURL = 'https://blog.kernelpoppin.foo/'
 languageCode = 'en-us'
 title = 'Friday Film Club'
+theme = 'ananke'

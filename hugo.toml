@@ -1,4 +1,4 @@
-baseURL = 'https://blog.kernelpoppin.foo/'
+baseURL = 'https://blog.kernelpoppin.foo/FridayFilm'
 languageCode = 'en-us'
 title = 'Friday Film Club'
 theme = 'ananke'
